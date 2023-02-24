@@ -1,6 +1,6 @@
 package org.example;
 
-public class Truck extends Vehicle{
+public class Truck extends Vehicle {
     protected Truck(int maxSpeed) {
         super(maxSpeed);
     }

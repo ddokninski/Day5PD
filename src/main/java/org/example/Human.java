@@ -1,6 +1,6 @@
 package org.example;
 
-public class Human implements Mobile, Talkable{
+public class Human implements Mobile, Talkable {
     @Override
     public void move() {
         System.out.println("Im human I can run with 13km/h");

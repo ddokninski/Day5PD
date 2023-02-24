@@ -7,7 +7,6 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
 
-
         var volvoTruck = new Truck(150);
         var scaniaTruck = new Truck(120);
         var superBoat = new Boat(100);
